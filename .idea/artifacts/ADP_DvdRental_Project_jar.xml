@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ADP-DvdRental_Project:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="ADP-DvdRental_Project.jar">
+      <element id="module-output" name="ADP-DvdRental_Project" />
+    </root>
+  </artifact>
+</component>
